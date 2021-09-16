@@ -1,7 +1,7 @@
 {
     "name": "vue-qiankun",
     "version": "1.0.0",
-    "description": "vue qiankun spa",
+    "description": "axios 封装示例",
     "private": true,
     "scripts": {
         "install": "node config/install.js",
